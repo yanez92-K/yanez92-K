@@ -31,24 +31,45 @@
 
 ---
 
-### 🚀 Mis Proyectos
+## 🚀 Proyectos Destacados
 
-#### 🥋 Sistema de Gestión Web – Escuela de Kenpo
-Aplicación web diseñada para la administración académica, control de estudiantes y registro de grados de artes marciales.
-* **Arquitectura Robusta:** Construido bajo el patrón **MVC (Model-View-Controller)**, asegurando un desacoplamiento limpio de responsabilidades.
-* **Contratos de Datos:** Implementación estricta de capas **DAO** para la persistencia e integridad de datos y **DTO** para optimizar la transferencia de información.
+### 🥇 Proyecto Principal · 🥋 Sistema de Gestión Web – Escuela de Kenpo
 
-#### 🍕 Pizzería Mamma Mía
-* Aplicación frontend desarrollada en **React** utilizando **Vite** como entorno de construcción rápida, enfocada en una experiencia de usuario fluida y diseño responsivo.
+Aplicación web empresarial para la gestión académica y administración de estudiantes, desarrollada en Java bajo arquitectura MVC y patrones de diseño orientados a la escalabilidad y mantenibilidad del sistema.
 
-#### 🎵 Mi Repertorio
-* Creación y diseño de una **API REST** utilizando **Express** y Node.js para la gestión y almacenamiento estructurado de datos musicales.
+**Tecnologías:** `Java EE` · `Servlets` · `JSP` · `MVC` · `DAO` · `DTO` · `SQL` · `Spring`
 
-#### 🐶 Marketplace de Mascotas
-* Proyecto **Full Stack** integrado que conecta interfaces de usuario interactivas con un sistema de persistencia de datos para el comercio de productos y servicios para mascotas.
+🔗 **Repositorio:** [Ver proyecto](URL_DEL_REPOSITORIO)
 
-#### 🛒 Carrito de Compras
-* Aplicación de **gestión comercial** enfocada en la lógica de estados de React, manejo de stock simulado y flujos de transacciones de productos.
+---
+
+### 🍕 Pizzería Mamma Mía
+
+Aplicación frontend desarrollada con React y Vite, enfocada en una experiencia de usuario dinámica, intuitiva y responsive.
+
+**Tecnologías:** `React` · `JavaScript` · `Vite` · `Bootstrap`
+
+🔗 **Repositorio:** [Ver proyecto](URL_DEL_REPOSITORIO)
+
+---
+
+### 🎵 Mi Repertorio
+
+API REST para la gestión de información musical, implementando operaciones CRUD y persistencia de datos.
+
+**Tecnologías:** `Node.js` · `Express` · `REST API`
+
+🔗 **Repositorio:** [Ver proyecto](URL_DEL_REPOSITORIO)
+
+---
+
+### 🐶 Marketplace de Mascotas
+
+Plataforma Full Stack para la gestión de productos y servicios para mascotas, integrando frontend, backend y base de datos relacional.
+
+**Tecnologías:** `React` · `Node.js` · `Express` · `PostgreSQL`
+
+🔗 **Repositorio:** [Ver proyecto](URL_DEL_REPOSITORIO)
 
 ---
 
